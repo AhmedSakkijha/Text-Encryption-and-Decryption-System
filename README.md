@@ -4,4 +4,4 @@ Developed a text encryption/decryption application in MASM Assembly, focusing on
 
 ## TranslateBuffer Program Execution Visual Explanation
 
-!(Screenshot 2025-01-09 010818.png)
+!Screenshot 2025-01-09 010818.png
